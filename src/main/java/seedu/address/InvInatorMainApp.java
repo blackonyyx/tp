@@ -22,6 +22,7 @@ import seedu.address.model.ReadOnlyItemList;
 import seedu.address.model.ReadOnlyLocationList;
 import seedu.address.model.ReadOnlyUserPrefs;
 import seedu.address.model.UserPrefs;
+import seedu.address.model.util.SampleDataUtil;
 import seedu.address.storage.ItemListStorage;
 import seedu.address.storage.JsonItemListStorage;
 import seedu.address.storage.JsonLocationListStorage;
